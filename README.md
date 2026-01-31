@@ -1,6 +1,6 @@
 # MINIPROJECTSS
 this is a Minproject dump Repo  
-these are all the projects that i found changed/tweaked and created when i was in college 
+these are all the projects that i found changed/tweaked and created when i was in college and free time
 
 ## PROJECTS
 - store-it
@@ -12,7 +12,7 @@ these are all the projects that i found changed/tweaked and created when i was i
 -
 
 ### ZIP download
-- _[store-it]()_
+- _[store-it]()_  
 - _[study-center]()_
 - _[vehiclerecordsystem]()_
 - _[zoo-management-system]()_
