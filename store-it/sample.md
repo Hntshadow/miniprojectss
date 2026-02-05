@@ -13,15 +13,18 @@
 ---
 
 ### Branch login  
-![branch login]()  
+![branch login](/assests/store-it/branch/branch_login.png)  
 
 ### Branch login  
-![branch dashboard]()  
+![branch homepage](/assests/store-it/branch/branch_homepage.png)    
 
 ### Branch login  
-![branch product list]()  
+![branch dashboard](/assests/store-it/branch/branch_dashboard.png)   
 
 ### Branch login  
-![branch payment confirm]()  
+![branch orders](/assests/store-it/branch/branch_order.png)    
 
+### Branch login  
+![branch product list](/assests/store-it/branch/branch_productlist.png)    
+  
 ---
