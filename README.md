@@ -1,6 +1,6 @@
 # MINIPROJECTSS
-this is a Minproject dump Repo  
-these are all the projects that i found changed/tweaked and created when i was in college and free time
+This is a Minproject dump Repo,  
+these are all the projects that i found changed/tweaked and created when When i was in my college and as in my free time.
 
 ## PROJECTS
 - store-it
