@@ -24,9 +24,11 @@ these are all the projects that i found changed/tweaked and created when When i 
 1. download from the given zip above
 2. download indivisual assests for the file
 3. each given projects has its own readme.txt for how to operate and connect
+4. import the SQL file from sql folder to PHPMYADMIN
 
 ### Notes
 >orignal project **[sources]()**  
 work still in _progress_  
 some projects may not work or even break and please ensure the ***xampp servers are running*** 
+ignore the asset file ,its only for the images ,logos and pngs 
  
