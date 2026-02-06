@@ -1,30 +1,33 @@
 ### Admin login  
-![admin login]()  
+![admin login](/assests/store-it/admin/admin_login.png)   
 
-### Admin login  
-![admin dashboard]()  
+### Admin Dashboard  
+![admin dashboard](/assests/store-it/admin/admin_dashboard.png)  
 
-### Admin login  
-![admim branchlist]()  
+### Admin Branch List  
+![admim branchlist](/assests/store-it/admin/admin_branchlist.png)  
 
-### Admin login  
-![admin payment confirm]()  
+### Admin Payment  
+![admin payment confirm](/assests/store-it/admin/admin_payment.png)  
+
+### Admin Feedback
+![admin payment feed](/assests/store-it/admin/admin_payment.png)  
 
 ---
 
 ### Branch login  
 ![branch login](/assests/store-it/branch/branch_login.png)  
 
-### Branch login  
+### Branch Homepage  
 ![branch homepage](/assests/store-it/branch/branch_homepage.png)    
 
-### Branch login  
+### Branch Dashboard  
 ![branch dashboard](/assests/store-it/branch/branch_dashboard.png)   
 
-### Branch login  
+### Branch Order  
 ![branch orders](/assests/store-it/branch/branch_order.png)    
 
-### Branch login  
+### Branch Product List  
 ![branch product list](/assests/store-it/branch/branch_productlist.png)    
   
 ---
