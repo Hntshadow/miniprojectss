@@ -1,19 +1,17 @@
 # Zoo Management Systems
-A simpified ***inventory management system***
+A simpified ***zoo management system***
 
 ### Why ?
 - easy to setup
 - managed by the _admin_
-- have _branches_ in any part of the world to supply products 
-- create update manage branches which will supply the products
-- have a list of **products** sort and arrange them
-- manage and track **orders**
+- create and manage tickets 
+- create manage update the animals
+- update price and track ticket sales
 
 ### Benfits
 - runs **offline**
-- eliminates the needs for a middle man
-- has inbuilt payment **UPI QR**
-- no limits on products amount
+- no external additins required
+- no limits
 - free to use
 
 ---

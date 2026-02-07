@@ -1,19 +1,19 @@
 # Study Center
-A simpified ***inventory management system***
+A simpified ***study cenetr management system***
 
 ### Why ?
 - easy to setup
 - managed by the _admin_
-- have _branches_ in any part of the world to supply products 
-- create update manage branches which will supply the products
-- have a list of **products** sort and arrange them
-- manage and track **orders**
+- arrange desk to students 
+- manage exams and class room
+- didplay student id and occupency
+- 
 
 ### Benfits
 - runs **offline**
-- eliminates the needs for a middle man
-- has inbuilt payment **UPI QR**
-- no limits on products amount
+- easy to use
+- navigate and make changes 
+- no limits on any amount
 - free to use
 
 ---

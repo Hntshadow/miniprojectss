@@ -1,19 +1,18 @@
 # Vehicle Record System
-A simpified ***inventory management system***
+A simpified ***vehicle management system***
 
 ### Why ?
 - easy to setup
 - managed by the _admin_
-- have _branches_ in any part of the world to supply products 
-- create update manage branches which will supply the products
-- have a list of **products** sort and arrange them
-- manage and track **orders**
+- manage vechicle and brands 
+- sort and update yhem
+- search from the list easly
+
 
 ### Benfits
 - runs **offline**
-- eliminates the needs for a middle man
-- has inbuilt payment **UPI QR**
-- no limits on products amount
+- stores information locally
+- no limits on vehicle amount
 - free to use
 
 ---
